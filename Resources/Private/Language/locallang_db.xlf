@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-01-25T23:29:45Z" product-name="nagios3">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_nagios3_domain_model_checkup">
+				<source>Checkup</source>
+			</trans-unit>
+			<trans-unit id="tx_nagios3_domain_model_checkup.result">
+				<source>Result</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
